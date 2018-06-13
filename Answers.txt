@@ -1,0 +1,15 @@
+•	What is the minimum time to enter the string ‘global aerospace’ and what key sequence would be required?
+
+the minimum time depend on the setting for a particular character to be chosen from the keypad. Given that the minimum time 
+that a user can hold on is 0.5s I set the time in this application to two seconds meaning that the time will be the length 
+of the string 'global aerospace' 16*2 = 32s
+
+•	How would you design the application to allow the characters assigned to each key to be easily reconfigured?
+
+the implementation for easy reconfiguartion should pull data from a json object
+
+telephonepadObject =[buttoncontent2:{'2','a','b','c'}, buttoncontent3:{'3','d','e','f'}
+
+Note: there is a backspace funtionality on the '*'. The button Action now renamed 'show minimum time' shows minimum time for an expression. 
+
+word document added to show the app at work.

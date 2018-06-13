@@ -1,0 +1,9 @@
+C:\Users\User\InterviewProjects\Telephonepad\WindowsFormsphonepad2\bin\Debug\WindowsFormsphonepad2.exe.config
+C:\Users\User\InterviewProjects\Telephonepad\WindowsFormsphonepad2\bin\Debug\WindowsFormsphonepad2.exe
+C:\Users\User\InterviewProjects\Telephonepad\WindowsFormsphonepad2\bin\Debug\WindowsFormsphonepad2.pdb
+C:\Users\User\InterviewProjects\Telephonepad\WindowsFormsphonepad2\obj\Debug\WindowsFormsphonepad2.Properties.Resources.resources
+C:\Users\User\InterviewProjects\Telephonepad\WindowsFormsphonepad2\obj\Debug\WindowsFormsphonepad2.csproj.GenerateResource.Cache
+C:\Users\User\InterviewProjects\Telephonepad\WindowsFormsphonepad2\obj\Debug\WindowsFormsphonepad2.exe
+C:\Users\User\InterviewProjects\Telephonepad\WindowsFormsphonepad2\obj\Debug\WindowsFormsphonepad2.pdb
+C:\Users\User\InterviewProjects\Telephonepad\WindowsFormsphonepad2\obj\Debug\WindowsFormsphonepad2.csprojResolveAssemblyReference.cache
+C:\Users\User\InterviewProjects\Telephonepad\WindowsFormsphonepad2\obj\Debug\WindowsFormsphonepad2.Formpadtest.resources
